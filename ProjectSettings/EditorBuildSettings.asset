@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/@Sabo/Sabo.unity
+    guid: 0e633efe22b404f13b5743105ecd282c
+  m_configObjects:
+    Niantic.Lightship.AR.LightshipSettings: {fileID: 11400000, guid: 3b3e7e04e00e54e708c38f80288dc46b,
+      type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 873e3b8e4cf9c4dd3b581f40dc6bf7c5,
+      type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: f4068f1fe4b8f4d188444d1e4dfd6522,
+      type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 8ee6319529936430fb1ca340e413bfff,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: a1e9ae55303634bb1ab1ccc741dbebac,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: ef9f6edc98b6149bdaee5fff4842c6da,
+      type: 2}
